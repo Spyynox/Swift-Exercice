@@ -10,4 +10,7 @@ import Foundation
 
 print(condog(str: "zhzh", prefix: "s", suffix: "zae"))
 
-print(cleanHobbits(arr: <#T##[String]#>))
+//print(cleanHobbits(arr: <#T##[String]#>))
+
+//let str = "BONJOUR"
+//print(str.countAndReturn())

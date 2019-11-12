@@ -8,3 +8,12 @@
 
 import Foundation
 
+
+//str.lowercased()
+
+//extension String {
+//    func countAndReturn() -> String {
+//        return "count: \(self.count) string: \(self)"
+//    }
+//}
+
