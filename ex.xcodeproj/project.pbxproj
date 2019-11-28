@@ -65,8 +65,8 @@
 			children = (
 				CA708084237AF3D200361220 /* main.swift */,
 				CA70808B237AF43700361220 /* exercice1.swift */,
-				CA70808F237B00F100361220 /* exercice3.swift */,
 				CA70808D237AF62100361220 /* exercice2.swift */,
+				CA70808F237B00F100361220 /* exercice3.swift */,
 			);
 			path = ex;
 			sourceTree = "<group>";
